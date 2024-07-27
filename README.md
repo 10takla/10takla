@@ -52,7 +52,7 @@
     <img height="100%" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo.c36eaf5e6.svg"   alt="leetcode" style="background: white; padding: 4px; box-sizing: border-box;">
   </a>
   <a href="https://www.codewars.com/users/10takla">
-    <img height="100%"  src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="codewars">
+    <img height="100"  src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="codewars">
   </a>
 </div>
 
